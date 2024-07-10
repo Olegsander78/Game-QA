@@ -1,7 +1,8 @@
 # Game-QA
-Otus Game QA Engineer. Testing practice
+Otus Game QA Engineer. Testing practice.
+[WIKI](https://github.com/Olegsander78/Game-QA/wiki/Game-QA-Engineer)
 
-Oleg Kotov edited this page Jul 10, 2024 · 10 revisions
+Oleg Kotov edited this page Jul 10, 2024 · 10 revisions.
 
     Знакомство. Профессия и зоны ответственности
 
